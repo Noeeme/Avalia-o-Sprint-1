@@ -14,4 +14,8 @@ Para isso usa-se o comando: git add .
 
 5. Decidir quais recursos e funcionalidades serão construídos, e em qual ordem; comunicar e manter a equipe com uma visão clara do que se epera alcançar no projeto, além de saber quais atividade priorizar.
 
-6. Está na pasta:
+6. Está na pasta: Out/production - Quiz.
+
+7. Está na pasta: Out/production - horario.
+
+8. Está na pasta: Out/production - Bonus.
