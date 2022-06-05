@@ -13,3 +13,5 @@ Para isso usa-se o comando: git add .
 4. Em minha opinião a principal vantagem da utilização do SCRUM seria, a organização. Além disso, temos também como vantagens o estímulo do trabalho em equipe, da comunicação e da agilidade (baseada em metas).
 
 5. Decidir quais recursos e funcionalidades serão construídos, e em qual ordem; comunicar e manter a equipe com uma visão clara do que se epera alcançar no projeto, além de saber quais atividade priorizar.
+
+6. Está na pasta:
